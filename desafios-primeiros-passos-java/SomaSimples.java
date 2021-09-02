@@ -10,7 +10,7 @@ import java.util.Scanner;
 * Saída: <br>
 * Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço em branco antes e depois do símbolo de igualdade, seguido pelo valor correspondente à soma de A e B.
 */
-public class Problem {
+public class SomaSimples {
   public static void main(String[] args) {
     Scanner sc = new Scanner (System.in);
     int A, B, soma;
