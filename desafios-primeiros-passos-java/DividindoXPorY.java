@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Saída: <br>
  * Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
  */
-public class Problem {
+public class DividindoXPorY {
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
 		int N = leitor.nextInt();
