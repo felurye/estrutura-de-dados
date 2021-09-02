@@ -11,7 +11,7 @@ import java.util.Scanner;
 * Saída: <br>
 * Imprima o tempo necessário para a moto Y ficar com a quantidade K de quilômetro da moto X, seguido da mensagem " minutos".
 */
-public class Test {
+public class Distancia {
   public static void main(String[] args) {
     int minutos;
     Scanner input = new Scanner(System.in);
