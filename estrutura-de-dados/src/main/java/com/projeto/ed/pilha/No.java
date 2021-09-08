@@ -29,6 +29,6 @@ public class No {
 
 	@Override
 	public String toString() {
-		return "No{" + "dado=" + dado + '}';
+		return "No{" + "dado=" + dado + "}";
 	}
 }
